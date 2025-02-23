@@ -1,0 +1,24 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --primary-color: #00ddc6;
+  --primary-bg-color: #f9f9f9;
+  --header-bg-color: #2f354a;
+  --header-text-color: #b2b6c1;
+  --text-color: #404040;
+  --secondary-text-color: #6d6c6c;
+  --tertiary-text-color: #adaaaa;
+  --red: rgb(229, 0, 0);
+  --pink: #ff768b;
+  --green: #008170;
+  --yellow: #e49000;
+}
+
+@import "tailwindcss";
