@@ -3,7 +3,7 @@ import LineChart from "../containers/lineChart";
 
 import CircleChart from "../containers/circleChart";
 import Data from "../containers/data";
-import BudgetStatus from "./budgetStatus";
+import BudgetStatus from "../containers/budgetStatus";
 
 const Home = () => {
   return (
